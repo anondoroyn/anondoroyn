@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Anondo Roy</h1>
 Hi there! 👋 I'm Anondo Roy<br><br>💻 Aspiring Data Analyst | Computer Technology Student<br><br>Welcome to my GitHub Profile!<br><br>I'm passionate about technology, programming, and data analysis. I enjoy learning new skills and building projects to improve my knowledge.<br><br>🚀 About Me<br><br>- 🎓 Diploma in Engineering – Computer Technology<br>- 📊 Interested in Data Analytics<br>- 🌱 Currently learning Python, SQL, Excel & Power BI<br>- 💻 Interested in programming and problem-solving<br>- 🎯 Goal: Become a Professional Data Analyst<br><br>🛠️ Skills & Technologies<br><br>- Python<br>- Microsoft Excel<br>- Power BI<br>- SQL<br>- Microsoft Word<br>- Data Analysis<br>📚 Currently Learning<br><br>- Python Programming<br>- Data Analysis<br>- Power BI Dashboard<br>- SQL Database<br><br>⭐ Thanks for visiting my profile!
 
 
