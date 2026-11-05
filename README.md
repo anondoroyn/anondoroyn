@@ -1,18 +1,114 @@
-<h1 align="center">Hi 👋, I'm Anondo Roy</h1>
-Hi there! 👋 I'm Anondo Roy<br><br>💻 Aspiring Data Analyst | Computer Technology Student<br><br>Welcome to my GitHub Profile!<br><br>I'm passionate about technology, programming, and data analysis. I enjoy learning new skills and building projects to improve my knowledge.<br><br>🚀 About Me<br><br>- 🎓 Diploma in Engineering – Computer Technology<br>- 📊 Interested in Data Analytics<br>- 🌱 Currently learning Python, SQL, Excel & Power BI<br>- 💻 Interested in programming and problem-solving<br>- 🎯 Goal: Become a Professional Data Analyst<br><br>🛠️ Skills & Technologies<br><br>- Python<br>- Microsoft Excel<br>- Power BI<br>- SQL<br>- Microsoft Word<br>- Data Analysis<br>📚 Currently Learning<br><br>- Python Programming<br>- Data Analysis<br>- Power BI Dashboard<br>- SQL Database<br><br>⭐ Thanks for visiting my profile!
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm
+  <a href="https://github.com/anondoroyn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00CFFF&center=true&vCenter=true&width=350&lines=Anondo+Roy;Anondo+Roy;Anondo+Roy" alt="Anondo Roy" />
+  </a>
+</h1>
 
+<h3 align="center">
+  💻 Aspiring Data Analyst | Computer Technology Student
+</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anondoroyn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anondoroyn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anondoroyn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anondoroyn) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@anondoroyn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anondoroyn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anondoroyn2006@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anondoroyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anondoroyn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anondoroyn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:007BFF,100:00D4FF&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anondoroyn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+Hello! I'm **Anondo Roy**, a Computer Technology student passionate about programming, technology, and data analytics.
+
+- 🎓 Diploma in Engineering – Computer Technology
+- 📊 Interested in Data Analytics
+- 🌱 Currently learning Python, SQL, Excel & Power BI
+- 💻 Interested in Programming & Problem Solving
+- 🎯 Goal: Become a Professional Data Analyst
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,php,powershell,kotlin,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python Programming
+- 📊 Data Analysis
+- 📈 Power BI Dashboard
+- 🗄️ SQL Database
+- 📑 Advanced Excel
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://facebook.com/anondoroyn"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/anondoroyn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anondoroyn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@anondoroyn"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://tiktok.com/@anondoroyn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://x.com/anondoroyn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+📧 **Email:** anondoroyn2006@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anondoroyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anondoroyn&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anondoroyn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/anondoroyn/anondoroyn/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 💡 My Motto
+
+<h3 align="center">
+  🚀 Learn • Practice • Build • Improve
+</h3>
+
+<h3 align="center">
+  Dream Big, Keep Learning! 💙
+</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anondoroyn&label=Profile%20Views&color=00CFFF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub Profile! ⭐
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:007BFF,100:00D4FF&height=100&section=footer" />
+</p>
