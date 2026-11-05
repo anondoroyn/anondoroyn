@@ -106,8 +106,8 @@ I'm a Computer Technology student with a strong interest in technology, programm
 <a href="https://medium.com/@anondoroyn">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="[https://discord.com/channels/@me](https://discord.com/users/1230734210986410095)">
-<img src="[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)"/>
+<a href="https://discord.com/users/1230734210986410095" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://tiktok.com/@anondoroyn">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
